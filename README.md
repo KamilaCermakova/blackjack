@@ -1,4 +1,4 @@
-# Blackjack CLI (Python)
+# Blackjack (Python)
 
 Simple command-line Blackjack game with a real 52-card deck (no replacement).
 
